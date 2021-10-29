@@ -1,0 +1,1 @@
+# shinema-core
