@@ -6,3 +6,8 @@
 
 位置：
 https://github.com/VaughnVernon/IDDD_Samples
+
+使用到的中件间：
+mysql5.6+ 用于存储事件
+zk3.4 + kafka 用于分布式锁，消息发布。
+
